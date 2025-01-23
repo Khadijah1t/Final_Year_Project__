@@ -29,6 +29,10 @@ The project, **"Segmentation Strategies for Enhancing System Automation,"** aims
 
 ### Help Document for Running and Interacting with the Prototype
 
+## Link to the Prototype
+
+You can view the prototype [here](https://www.figma.com/design/5kQfrgefUf7ewr3DF24wyE/MyPagesForFyp?node-id=70-516&t=j8Xu1o1Erx0COpa5-0).
+
 #### 1. Overview of the Prototype
 This prototype is an interface designed for **SegAnalytics**, a platform providing image segmentation analysis and reports. The prototype allows users to:
 - View analysis data on the Dashboard.
