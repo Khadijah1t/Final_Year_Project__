@@ -111,4 +111,4 @@ This prototype is an interface designed for **SegAnalytics**, a platform providi
 |-- /Prototype Images/        # Figma prototype screenshots
 |-- README.md                 # This file
 |-- /Documentation/           # SRS,SDS and proposal documents
-|-- LICENSE                   # License information
+
